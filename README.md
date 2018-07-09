@@ -9,6 +9,15 @@ challenge your understanding of Java's built-in primitive values (ints, floats,
 doubles, Strings, booleans), for loops, while loops, if statements, functions,
 parameters and return statements.
 
+Create a file for each challenge. Each file should have a main method. Our
+solution has these four files:
+
+* Pluralize.java
+* FlipNCoins.java
+* CommandLineClock.java
+* SpeedCheck.java
+
+## Java Syntax Example
 Here's an example Java program with examples of Java syntax.
 
 ```java
