@@ -136,7 +136,7 @@ You can create a `LocalDateTime` object and get the hours, minutes and seconds
 off it like this:
 
 ```
-LocalDateTime now = new LocalDateTime.now();
+LocalDateTime now = LocalDateTime.now();
 int hour = now.getHour();
 int minute = now.getMinute();
 int second = now.getSecond();
